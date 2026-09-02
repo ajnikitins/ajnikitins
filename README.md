@@ -12,7 +12,7 @@ MSc Economic and Social Sciences student at Bocconi University, prior experience
 
 ### Tools
 
-* Researhc/data: R, Python, SQL, Stata, LaTeX
+* Research/data: R, Python, SQL, Stata, LaTeX
 * Previous projects: Java, JavaScript/Node.js/TypeScript, PHP
 
 ### Selected projects
