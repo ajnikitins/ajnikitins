@@ -1,6 +1,6 @@
 # Artūrs Jānis Ņikitins
 
-**MSc Economic and Social Sciences @ Bocconi | Former Senior Economist @ Latvijas Banka**
+**MSc Economic and Social Sciences Student @ Bocconi | Former Senior Economist @ Latvijas Banka**
 
 I am interested in empirical macro-finance, with a focus on monetary policy transmission, banking, and granular financial data.
 
