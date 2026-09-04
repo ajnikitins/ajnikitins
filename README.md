@@ -8,7 +8,7 @@
 * Empirical macro-finance
 * Granular administrative and financial data
 * Panel and time-series econometrics
-* ML-based analysis of big data
+* ML-based analysis and big data
 * Non-standard data sources and webscraping
 * Data construction, linkage, and reproducible research
 
