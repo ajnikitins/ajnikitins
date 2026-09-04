@@ -1,16 +1,13 @@
 # Artūrs Jānis Ņikitins
 
-**MSc Economic and Social Sciences @ Bocconi | Former Senior Economist @ Latvijas Banka | Empirical macro-finance, monetary policy & banking**
+**MSc Economic and Social Sciences @ Bocconi | Former Senior Economist @ Latvijas Banka**
 
-### Research & technical interests
+I am interested in empirical macro-finance, with a focus on monetary policy transmission, banking, and granular financial data.
 
-* Monetary policy transmission and banking
-* Empirical macro-finance
-* Granular administrative and financial data
-* Panel and time-series econometrics
-* ML-based analysis and big data
-* Non-standard data sources and webscraping
-* Data construction, linkage, and reproducible research
+### Research
+
+* [Household Borrowing and Monetary Policy Transmission: Post-Pandemic Insights from Nine European Credit Registers](PUBLICATION_LINK) — *International Journal of Central Banking* (2026), co-author.
+* **Current research:** bank-level heterogeneity in monetary-policy transmission and macroeconomic expectations, using US bank data and local projections, in a Bocconi IGIER project with Filippo De Marco and Nicola Pavoni.
 
 ### Tools
 
