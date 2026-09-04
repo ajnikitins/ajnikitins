@@ -6,7 +6,7 @@ I am interested in empirical macro-finance, with a focus on monetary policy tran
 
 ### Research
 
-* [Household Borrowing and Monetary Policy Transmission: Post-Pandemic Insights from Nine European Credit Registers](PUBLICATION_LINK) — *International Journal of Central Banking* (2026), co-author.
+* [Household Borrowing and Monetary Policy Transmission: Post-Pandemic Insights from Nine European Credit Registers](https://www.ijcb.org/journal/v22n2/household-borrowing-and-monetary-policy-transmission-post-pandemic-insights-nine) — *International Journal of Central Banking* (2026), co-author.
 * **Current research:** bank-level heterogeneity in monetary-policy transmission and macroeconomic expectations, using US bank data and local projections, in a Bocconi IGIER project with Filippo De Marco and Nicola Pavoni.
 
 ### Tools
