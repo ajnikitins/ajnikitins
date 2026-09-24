@@ -20,5 +20,5 @@ I am interested in empirical macro-finance and applied macroeconomics, with a fo
 ### Tools
 
 * Research: R, Python, SQL, Stata, LaTeX
-* Data & development: Git, Docker, SQL Server, MongoDB
+* Data & development: SQL Server, MongoDB, Git, Docker
 * Other: JavaScript/TypeScript
